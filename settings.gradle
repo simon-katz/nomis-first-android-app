@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Nomis First Android App"
